@@ -11,4 +11,4 @@ Using the weather preference between 10 and 50, the potential travel destination
 
 From the locations above, we picked 3 destinations that we were intrested in and mapped out the travel itenerary and ending in where we started. From the marker layered map below, we can clearly see the route we will taking from beginning to end. 
 
-![WeatherPy_travel_map](/Vacation_Search/WeatherPy_travel_map.png)
+![WeatherPy_travel_map](/Vacation_Itinerary/WeatherPy_travel_map.png)
